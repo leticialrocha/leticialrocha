@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">printf("Olá, mundo!");</h3>
-<h4 align="center">Estudante do curso de Análise e Desenvolvimento de Sistemas | UCS </h4>
+<h4 align="center">Estudante do curso de Ciências da Computação | UNINOVE </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leticialrocha&label=Profile%20views&color=FF69B4&style=flat" alt="leticialrocha" /> </p>
 
