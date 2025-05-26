@@ -5,39 +5,32 @@
 </div>
 
 <h3 align="center">printf("Olá, mundo!");</h3>
-<h4 align="center">Estudante do curso de Ciências da Computação | UNINOVE </h4>
+<h4 align="center">Estudante do curso de Análise e Desenvolvimento de Sistemas | UCS </h4>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=leticialrocha&label=Profile%20views&color=FF69B4&style=flat" alt="leticialrocha" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leticialrocha&label=Profile%20views&color=FF69B4&style=flat" alt="leticialrocha" /> </p>
 
-- 🌱 Cloud Engineer | DevOps  
-- 👩🏻‍💻 Focada em aprimorar conhecimentos na área de CyberSecurity  
-- 💻 Cursando Técnico em Redes de Computadores | SENAI SP  
-- ✉️ leticialmeidarh91@gmail.com  
+- 🌱 Cloud Engineer | AWS
+- 🤓 Cursando Técnico em Redes de Computadores | SENAI SP
+- 💻 Focada em aprimorar Conhecimentos na área de CyberSecurity 
+- ✉️ leticialmeidarh91@gmail.com
 
-<!-- Estatísticas do GitHub -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialrocha&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialrocha&layout=compact&langs_count=5&theme=dracula" />
+<div align="center" style="display: flex; justify-content: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialrocha&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialrocha&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<!-- Linguagens e Tecnologias -->
-<h4 align="left">Linguagens e Tecnologias</h4>
-
+<h4 align="left">Linguagens e tecnologias </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,azure,aws,cpp,css,debian,grafana,js,nginx,python" />
+    <img src="https://skillicons.dev/icons?i=arduino,azure,aws,cpp,css,debian,grafana,js,nginx,python"/>
   </a>
 </p>
 
-<!-- Conexões -->
-<h4 align="left">Conexões</h4>
-<a href="https://www.linkedin.com/in/letícia-rocha-b5a8882a0/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
 
-<!-- Snake de contribuições -->
+
+<h4 align="left">Conexões </h4>
+<a href="https://www.linkedin.com/in/rafaela-mumbach-buenos-8b00b8275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticialrocha/leticialrocha/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticialrocha/leticialrocha/output/github-contribution-grid-snake.svg">
