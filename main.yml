@@ -1,0 +1,30 @@
+name: GitHub-Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite (UTC)
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar Animação da Cobrinha
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: leticialrocha # Nome de usuário configurado
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Empurrar para o Repositório
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
