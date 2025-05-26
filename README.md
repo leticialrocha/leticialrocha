@@ -7,8 +7,8 @@
 <h3 align="center">printf("Olá, mundo!");</h3>
 <h4 align="center">Estudante do curso de Ciências da Computação | UNINOVE </h4>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=leticialrocha&label=Profile%20views&color=FF69B4&style=flat" alt="leticialrocha" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=leticialrocha&label=Profile%20views&color=FF69B4&style=flat" alt="leticialrocha" /> 
 </p>
 
 - 🌱 Cloud Engineer | DevOps  
@@ -33,16 +33,13 @@
 
 <!-- Conexões -->
 <h4 align="left">Conexões</h4>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/letícia-rocha-b5a8882a0/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/letícia-rocha-b5a8882a0/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
 
 <!-- Snake de contribuições -->
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelamumbach/rafaelamumbach/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelamumbach/rafaelamumbach/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelamumbach/rafaelamumbach/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticialrocha/leticialrocha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticialrocha/leticialrocha/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leticialrocha/leticialrocha/output/github-contribution-grid-snake.svg">
 </picture>
