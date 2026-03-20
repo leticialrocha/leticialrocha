@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leticialrocha&label=Profile%20views&color=FF69B4&style=flat" alt="leticialrocha" /> </p>
 
 - 🌱 Cloud Engineer | AWS
-- 🤓 Cursando Técnico em Redes de Computadores | SENAI SP
+- 🤓 Técnico em Redes de Computadores | SENAI SP
 - 💻 Focada em aprimorar Conhecimentos na área de CyberSecurity 
 - ✉️ leticialmeidarh91@gmail.com
 
