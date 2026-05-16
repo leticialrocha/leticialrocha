@@ -13,10 +13,10 @@
 - 🤓 Técnico em Redes de Computadores | SENAI SP
 - 💻 Focada em aprimorar Conhecimentos na área de CyberSecurity 
 - ✉️ leticialmeidarh91@gmail.com
-
+  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialrocha&show_icons=true&theme=dracula&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialrocha&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leticialrocha&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leticialrocha&layout=compact&theme=dracula"/>
 </p>
 
 <h4 align="left">Linguagens e tecnologias </h4>
