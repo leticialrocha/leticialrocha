@@ -1,44 +1,73 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=f17ea1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+
+# 👩🏻‍💻 Letícia Almeida Rocha
+
+### Cloud Engineer • CyberSecurity • Software Engineering Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Cloud+Engineer+AWS;CyberSecurity+Student;Software+Engineering+Student;Always+Learning+New+Technologies" />
+
 </div>
 
-<h3 align="center">printf("Olá, mundo!");</h3>
-<h4 align="center">Estudante do curso de Engenharia de Software | UNINTER</h4>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leticialrocha&label=Profile%20views&color=FF69B4&style=flat" alt="leticialrocha" /> </p>
+<div align="center">
 
-- 🌱 Cloud Engineer | AWS
-- 🤓 Técnico em Redes de Computadores | SENAI SP
-- 💻 Focada em aprimorar Conhecimentos na área de CyberSecurity 
-- ✉️ leticialmeidarh91@gmail.com
-  
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticialrocha&theme=dracula" />
-</p>
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leticialrocha&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticialrocha&theme=dracula" />
-</p>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticialrocha&theme=dracula" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leticialrocha&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leticialrocha&theme=dracula&utcOffset=-3" />
-</p>
+</div>
 
-<h4 align="left">Linguagens e tecnologias </h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,azure,aws,cpp,css,debian,grafana,js,nginx,python"/>
-  </a>
-</p>
+<br>
 
+<div align="center">
 
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leticialrocha&theme=dracula" />
 
-<h4 align="left">Conexões </h4>
-<a href="https://www.linkedin.com/in/letícia-rocha-b5a8882a0/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticialrocha&theme=dracula" />
 
+</div>
 
+<br>
 
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leticialrocha&theme=dracula" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leticialrocha&theme=dracula&utcOffset=-3" />
+
+</div>
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,python,java,js,html,css,linux,git,github,vscode,docker,mysql" />
+
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="mailto:leticialmeidarh91@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ “Technology moves the world.” ✨
+
+</div>
