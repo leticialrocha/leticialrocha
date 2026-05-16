@@ -8,6 +8,14 @@
 
 </div>
 
+## 👩🏻‍💻 About Me
+
+- 🎓 Técnica em Redes de Computadores formada pelo SENAI SP  
+- 💻 Estudante de Desenvolvimento de Sistemas  
+- 🚀 Graduanda em Engenharia de Software | Centro Universitário Internacional  
+- ☁️ Interessada em Cloud Computing, AWS e CyberSecurity  
+- ⚡ Apaixonada por tecnologia, inovação e aprendizado contínuo  
+
 ---
 
 <div align="center">
