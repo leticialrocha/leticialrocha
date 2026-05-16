@@ -14,9 +14,12 @@
 - 💻 Focada em aprimorar Conhecimentos na área de CyberSecurity 
 - ✉️ leticialmeidarh91@gmail.com
 
-<div align="center" style="display: flex; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialrocha&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialrocha&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialrocha&layout=compact&langs_count=16&theme=dracula"/>
+
 </div>
 
 <h4 align="left">Linguagens e tecnologias </h4>
